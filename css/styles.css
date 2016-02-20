@@ -1,38 +1,38 @@
-.container{
-	color: #333;
-	margin-top: 30px;
+.container {
+    color: #333;
+    margin-top: 30px;
 }
 
-body{
-	background-image: url("http://hdwallpapersfit.com/wp-content/uploads/2015/01/free-website-backgrounds-grey.jpg");
-	border: 3em;
-}
-h2{
-	color: #ddd;
+body {
+    background-image: url("http://hdwallpapersfit.com/wp-content/uploads/2015/01/free-website-backgrounds-grey.jpg");
+    border: 3em;
+    font-family: 'Montserrat', sans-serif;
 }
 
-img{
-	max-width: 100%;
-	max-height: 100%;
+h2 {
+    color: #ddd;
 }
 
-.pageHeader{
-
-	position: fixed;
-	border-bottom: 15px;
-
+img {
+    max-width: 100%;
+    max-height: 100%;
 }
 
-.postEven{
-	margin-top: 2em;
-	margin-bottom: 2em;
-	padding:2em;
-	background-color: #d3d3d3;
-	background-image: url("images/paper_texture602");
+.pageHeader {
+    position: fixed;
+    border-bottom: 15px;
 }
 
-.postOdd{
-	padding: 2em;
-	background-color: #eee;
-	background-image: url("http://bgfons.com/upload/paper_texture602.jpg");
+.postEven {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding: 2em;
+    background-color: #d3d3d3;
+    background-image: url("http://www.freecreatives.com/wp-content/uploads/2015/04/natural-paper-background-texture-hd-5a0b.jpg");
+}
+
+.postOdd {
+    padding: 2em;
+    background-color: #eee;
+    background-image: url("http://bgfons.com/upload/paper_texture602.jpg");
 }
